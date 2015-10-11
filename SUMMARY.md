@@ -7,5 +7,5 @@
 * [4.人生首秀](4ren_sheng_shou_xiu.md)
 * [5.任务代码](5ren_wu_dai_ma.md)
 * [6.XX素材](6xxsu_cai.md)
-* 7.有关XX
+* [7.有关XX](7you_guan_xx.md)
 
