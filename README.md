@@ -1,4 +1,5 @@
-My Awesome Book
+我的教程
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is my exeperience and feelings about coding during the OMMOC2PY.
+Hope this will help you also help me.
