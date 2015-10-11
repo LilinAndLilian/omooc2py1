@@ -6,6 +6,6 @@
 * [3.迭代作品](3die_dai_zuo_pin.md)
 * [4.人生首秀](4ren_sheng_shou_xiu.md)
 * [5.任务代码](5ren_wu_dai_ma.md)
-* 6.XX素材
+* [6.XX素材](6xxsu_cai.md)
 * 7.有关XX
 
